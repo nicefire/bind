@@ -1,0 +1,24 @@
+$TTL 86400
+@	IN	SOA	dns.hf.com.	root.hf.com. (
+			2012111700
+			3H
+			1H
+			1W
+			0
+) 
+@		IN	NS	dns.hf.com.
+dns.hf.com.	IN	A	172.18.15.113
+www		IN	A	172.18.14.113
+www		IN	A	172.18.15.113
+www		IN	A	10.10.49.113
+sc		IN	A	172.18.14.20
+wiki		IN	A	172.18.14.113
+wiki		IN	A	172.18.15.113
+wiki		IN	A	10.10.49.113
+mysql		IN	A	172.18.14.113
+mysql		IN	A	172.18.15.113
+mysql		IN	A	10.10.49.113
+cacti		IN	A	172.18.14.113
+cacti		IN	A	172.18.15.113
+cacti		IN	A	10.10.49.113
+

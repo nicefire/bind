@@ -1,0 +1,13 @@
+$TTL 86400
+@	IN	SOA	dns.hf.com.	root.hf.com. (
+			2012111700
+			3H
+			1H
+			1W
+			0
+)
+
+@				IN	NS	dns.hf.com.
+113.14.18.172.in-addr.arpa.	IN	PTR	dns.hf.com.
+20				IN	PTR	sc.hf.com.
+
